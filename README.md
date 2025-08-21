@@ -15,12 +15,10 @@ The notebook **`dog_vision.ipynb`** walks through data preprocessing, model buil
 ---
 
 ## 📂 Repository Structure
+```
 ├── dog_vision.ipynb # Main Jupyter Notebook with full workflow
 ├── README.md # Project documentation (you are here)
-
-yaml
-Copy
-Edit
+```
 
 ---
 
